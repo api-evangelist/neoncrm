@@ -1,0 +1,63 @@
+{
+    "name": "NeonCRM",
+    "description": "Thousands of nonprofits use Neon's nonprofit CRM to manage their fundraising, membership, events, and website \u2014 and ultimately grow their organization.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2075-neoncrm-by-z2systems.jpg",
+    "tags": [
+        "api provider",
+        "crm",
+        "have api",
+        "nonprofit",
+        "viewers"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/neoncrm\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "NeonCRM",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2075-neoncrm-by-z2systems.jpg",
+            "humanURL": "http:\/\/www.z2systems.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/neoncrm-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/neon-crm"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/neon-crm"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.neoncrm.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "sales@neoncrm.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/NeonCRM"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/z2systems"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.z2systems.com\/"
+        }
+    ]
+}
